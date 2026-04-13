@@ -14,6 +14,10 @@
 
 ###
 
+<h3 align="left">Mein CV<br>https://69dd29fc6abc621c31931ec3--stellar-malabi-59efc7.netlify.app/</h3>
+
+###
+
 <div align="center">
 </div>
 
