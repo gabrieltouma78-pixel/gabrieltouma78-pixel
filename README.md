@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Mein CV<br>https://69e10c9c64f8770008371391--stellar-malabi-59efc7.netlify.app/</h3>
+<h3 align="left">Mein CV<br>https://stellar-malabi-59efc7.netlify.app/</h3>
 
 ###
 
