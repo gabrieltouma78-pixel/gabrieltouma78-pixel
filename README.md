@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Mein CV<br>https://gabriel-touma.netlify.app/</h3>
+<h3 align="left">Mein CV<br>https://precious-starlight-83977d.netlify.app/</h3>
 
 ###
 
